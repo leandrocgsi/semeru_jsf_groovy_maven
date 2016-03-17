@@ -7,7 +7,7 @@ This project has been developed based on [Semeru JSF Maven](https://github.com/l
 
 **_English readme comming soon_**.
 
-Este projeto foi desenvolvido baseado no projeto [Semeru JSF Maven](https://github.com/leandrocgsi/semeru_jsf_maven). Mas foi usado Groovy ao invés de Java para mapear as entidades de persistencia. Assim como o projeto você pode ver mais detalhes no curso "Curso De JSF Do Zero À Nuvem" disponibilizado gratuitamente no [Youtube](https://www.youtube.com/playlist?list=PL18bbNo7xuh9d1AyAeC77O8xRz6hPD3iJ).
+Este projeto foi desenvolvido baseado no projeto [Semeru JSF Maven](https://github.com/leandrocgsi/semeru_jsf_maven). Mas foi usado Groovy ao invés de Java para mapear as entidades de persistencia. Assim como no projeto original você pode ver mais detalhes no curso "Curso De JSF Do Zero À Nuvem" disponibilizado gratuitamente no [Youtube](https://www.youtube.com/playlist?list=PL18bbNo7xuh9d1AyAeC77O8xRz6hPD3iJ).
 
 Frameworks e Tecnologias Utilizadas
 ================
@@ -15,6 +15,7 @@ Frameworks e Tecnologias Utilizadas
 * [Primefaces](http://www.primefaces.org/)
 * [JPA](http://www.oracle.com/technetwork/java/javaee/tech/persistence-jsp-140049.html)
 * [Hibernate](http://hibernate.org/)
+* [Groovy](http://www.groovy-lang.org/)
 * [Maven](https://maven.apache.org/)
 * [Spring Security](http://projects.spring.io/spring-security/)
 * [MySQL](https://www.mysql.com/)
@@ -49,4 +50,4 @@ As senhas são convertidas para SHA1 antes de serem gravadas no banco. Para cria
 Dúvidas Sobre o Projeto
 ================
 
-Em caso de dúvidas você poderá acessar o [Gitter do projeto](https://gitter.im/leandrocgsi/semeru_jsf_maven?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) ou acessar o blog [Semeru](http://semeru.com.br).
+Em caso de dúvidas você poderá acessar o [Gitter do projeto original](https://gitter.im/leandrocgsi/semeru_jsf_maven?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) ou acessar o blog [Semeru](http://semeru.com.br).
