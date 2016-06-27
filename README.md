@@ -47,6 +47,11 @@ O Spring Security
 
 As senhas são convertidas para SHA1 antes de serem gravadas no banco. Para criar um novo usuário caso o banco esteja vazio você pode inserir manualmente na base e encriptar a senha em SHA1. Caso você prefira restaurar o backup a partir do script mencionado acima ao rodar o projeto poderá logar com as credenciais usuário: "admin" e senha: "admin".
 
+Como configurar o Ambiente
+================
+
+Aprenda a configurar todo o ambiente de desenvolvimento Java no meu canal no Youtube e [nessa playlist aqui](https://www.youtube.com/playlist?list=PL18bbNo7xuh98_ImLkK-XdbVmLnKERZrD) você vai aprender a instalar e configurar o Java e ferramentas como Maven, Eclipse, Netbeans e GIT além de instalar o banco de dados MySQL.
+
 Dúvidas Sobre o Projeto
 ================
 
