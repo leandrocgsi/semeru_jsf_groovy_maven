@@ -33,12 +33,12 @@
             <layout>default</layout>
         </repository>        
                 
-        <!-- FACELETS TAGLIBRARIES REPOSITORY -->
-        
+        <!-- FACELETS TAGLIBRARIES REPOSITORY -->      
         <repository>
             <id>org.springframework.security.taglibs.facelets</id>
-            <url>http://spring-security-facelets-taglib.googlecode.com/svn/repo/</url>
-        </repository>
+            <url>http://nexus.emergya.es/nexus/content/groups/public/</url>
+        </repository>          
+               
                
         <!-- REPOSITÓRIO DA AOP ALLIANCE -->
 		<repository>
